@@ -9,7 +9,8 @@
   },
   "author": "",
   "dependencies": {
-    "express":"latest"
+    "express":"latest",
+    "cors": "latest"
   },
   "license": "ISC"
 }
